@@ -1,0 +1,14 @@
+# Archived resource packs
+*.zip
+
+# Disposable Packr resources
+x*_*.png
+x*_*.txt
+x*_*.properties
+x*_*.mcmeta
+
+# Sensitive information
+minecraft.json
+
+# Windows icon cache
+Thumbs.db

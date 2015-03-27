@@ -1,0 +1,6 @@
+{
+  "sourcePath": "resources",
+  "packsFile": "packs.json",
+  "prefixesFile": "prefixes.json",
+  "minecraftFile": "minecraft.json"
+}

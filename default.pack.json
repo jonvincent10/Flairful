@@ -1,0 +1,22 @@
+{
+  "filename": "Flairful.zip",
+  "importRules": [
+    "#faithful-blocks",
+    "#faithful-items",
+    "#faithful-entities",
+    "#faithful-misc",
+    "#glass-ui",
+    "#music",
+    "#hd-font",
+    "#icon-font",
+    "#beautiful-skies",
+    "#ctm",
+    "#default",
+    "#green-plants",
+    "#pvp",
+    "#rainbowz",
+    "#pretty-clear",   
+    "#misc",
+    "#std"   
+  ]
+}
