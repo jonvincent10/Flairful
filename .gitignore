@@ -5,7 +5,12 @@
 x*_*.png
 x*_*.txt
 x*_*.properties
+x*_*.json
 x*_*.mcmeta
+x*_*.fsh
+x*_*.vsh
+x*_*.bin
+x*_*.lang
 
 # Sensitive information
 minecraft.json
